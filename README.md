@@ -90,9 +90,9 @@ For this project, the **`age`** variable was used as the independent feature and
 ### 🔧 Prerequisites
 Ensure you have the following dependencies installed:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn plotly
----
-```Info
-## 📞 Contact +233 551411848 / +233 502990126
-- 📧 paakwesiprah20@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/prince-paakwesi-prah/)
+- pip install pandas numpy matplotlib seaborn scikit-learn plotly
+
+
+
+
+
